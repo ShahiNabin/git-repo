@@ -14,13 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-
 print("this is for second commit")
 print("this is for third commit")
-
-
 print("this is fourth commit")
-
-
 print("this is after removing commit")
+
+
+print("this is final commit")
